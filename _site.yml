@@ -1,0 +1,11 @@
+name: "book"
+output_dir: "docs"
+exclude: ["Makefile", "LICENSE"]
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+    css: style.css
+navbar:
+  title: 'книги'
