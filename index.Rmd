@@ -5,6 +5,8 @@ title: книги
 
 # Суфийские мотивы
 
+__адрес:__ <https://reuptake.github.io/sufi>
+
 Стихи и проза с суфийскими мотивами.
 
 Одно из стихотворений -- [перевод на белорусский язык](https://reuptake.github.io/sufi/translations.html#rumi) стихотворения поэта-суфия [Джалаладдина Руми](https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D0%B4%D0%B4%D0%B8%D0%BD_%D0%A0%D1%83%D0%BC%D0%B8).
@@ -21,9 +23,9 @@ title: книги
 >
 > _<...>_
 
-__адрес:__ <https://reuptake.github.io/sufi>
-
 # образы (книга без иллюстраций)
+
+__адрес:__ <https://reuptake.github.io/visual>
 
 книга состоит из визуальных образов, которые можно нарисовать, но иллюстраций в ней нет.
 
@@ -43,4 +45,14 @@ __примеры:__
 - идеяла (сотканные из идей одеяла, которыми можно укрыться с головой от холодной и страшной реальности).
 - элементарные частицы, которые очень любят, когда им чешут спины.
 
-__адрес:__ <https://reuptake.github.io/visual>
+# черновики за 2010-2018 годы
+
+__адрес:__ <https://reuptake.github.io/drafts>
+
+Черновики за 2010-2018 годы.
+
+__Источники:__
+
+- <https://web.archive.org/web/20180715042459/https://reuptake.github.io/>
+- <https://web.archive.org/web/20171213223512/https://reuptake.github.io/>
+- <https://web.archive.org/web/20170311131254/http://reuptake.github.io/art/poems-interesting.html>
