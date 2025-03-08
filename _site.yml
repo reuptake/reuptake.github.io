@@ -8,4 +8,4 @@ output:
       collapsed: false
     css: style.css
 navbar:
-  title: 'книги'
+  title: 'Книги'
