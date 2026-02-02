@@ -41,6 +41,7 @@ __примеры:__
 
 - [Стихи в PDF](https://github.com/reuptake/literature/blob/a2ecd6dd324f1c29863449be0a1dd4e56e33318d/poetry.pdf)
 - [Проза в PDF](https://github.com/reuptake/literature/blob/a2ecd6dd324f1c29863449be0a1dd4e56e33318d/prose.pdf)
+- [Словарь в PDF](https://github.com/reuptake/literature/blob/main/dict.pdf)
 
 ## Скачать
 
@@ -52,3 +53,7 @@ __примеры:__
 - <https://github.com/reuptake/literature/raw/refs/heads/main/prose.epub>
 - <https://github.com/reuptake/literature/raw/refs/heads/main/prose.mobi>
 - <https://github.com/reuptake/literature/raw/refs/heads/main/prose.pdf>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/dict.docx>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/dict.epub>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/dict.mobi>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/dict.pdf>
