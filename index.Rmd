@@ -3,6 +3,12 @@ title: Книги
 ---
 привет, я Паша Любецкий.
 
+# Черновики за 2010-2018 годы
+
+__адрес:__ <https://reuptake.github.io/drafts>
+
+Черновики за 2010-2018 годы.
+
 # Стихи о любви
 
 __адрес:__ <https://reuptake.github.io/sufi>
@@ -31,14 +37,18 @@ __примеры:__
 - идеяла (сотканные из идей одеяла, которыми можно укрыться с головой от холодной и страшной реальности).
 - элементарные частицы, которые очень любят, когда им чешут спины.
 
-# Черновики за 2010-2018 годы
+# Старое творчество
 
-__адрес:__ <https://reuptake.github.io/drafts>
+- [Стихи в PDF](https://github.com/reuptake/literature/blob/a2ecd6dd324f1c29863449be0a1dd4e56e33318d/poetry.pdf)
+- [Проза в PDF](https://github.com/reuptake/literature/blob/a2ecd6dd324f1c29863449be0a1dd4e56e33318d/prose.pdf)
 
-Черновики за 2010-2018 годы.
+## Скачать
 
-__Источники:__
-
-- <https://web.archive.org/web/20180715042459/https://reuptake.github.io/>
-- <https://web.archive.org/web/20171213223512/https://reuptake.github.io/>
-- <https://web.archive.org/web/20170311131254/http://reuptake.github.io/art/poems-interesting.html>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/poetry.docx>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/poetry.epub>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/poetry.mobi>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/poetry.pdf>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/prose.docx>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/prose.epub>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/prose.mobi>
+- <https://github.com/reuptake/literature/raw/refs/heads/main/prose.pdf>
